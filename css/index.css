@@ -429,6 +429,8 @@ a:hover{
 	z-index: 99;
 }
 #demo-show{
+	width: 350px;
+	height: 200px;
 	display: none;
 	background: #fff;
 	z-index: 100;
